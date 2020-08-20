@@ -1,0 +1,2 @@
+# KDH
+clone bitcamp folder
